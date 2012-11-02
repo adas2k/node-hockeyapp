@@ -1,0 +1,17 @@
+{
+  "author": "A.D. (adas2k)",
+  "name": "node-hockeyapp",
+  "keywords": [ "hockeyapp", "hockeyappapi", "node-hockeyapp", "hockeyapp ios" ],
+  "description": "NodeJS wrapper to the HockeyApp APIs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/adas2k/node-hockeyapp",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adas2k/node-hockeyapp.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.6.11"
+  }
+}
